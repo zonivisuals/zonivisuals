@@ -5,18 +5,18 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LOCATION-TUNISIA-6a0dad?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROLE-SWE-4a0dad?style=for-the-badge" />
-</p>
-
-<code><b>I BUILD SCALABLE SYSTEMS</b></code>
-<br/>
 <code>"The code you write today is the technical debt you pay tomorrow. Sharpen your blade."</code>
 
 ---
 
 ### <code>01 WHO_AM_I</code>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LOCATION-TUNISIA-6a0dad?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-SWE-4a0dad?style=for-the-badge" />
+</p>
+
+<br/>
 
 <code>SWE Masters student from Tunisia w/ 3+ years building full-stack apps.
 I architect first & code later, my sanity lowk depends on it.
