@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="push.gif" width="100%" alt="Katana Animation" />
+<img src="push.gif" width="64%" alt="Katana Animation" />
 
 <br/>
 
