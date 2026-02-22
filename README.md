@@ -1,10 +1,9 @@
 <div align="center">
 
+## <code> MOHAMED </code>
 <img src="push.gif" width="64%" alt="Katana Animation" />
 
 <br/>
-
-## <code> Mohamed </code>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LOCATION-TUNISIA-6a0dad?style=for-the-badge" />
@@ -12,21 +11,21 @@
 </p>
 
 <code><b>I BUILD SCALABLE SYSTEMS</b></code>
-> <code>"The code you write today is the technical debt you pay tomorrow. Sharpen your blade."</code>
+<code>"The code you write today is the technical debt you pay tomorrow. Sharpen your blade."</code>
 
 ---
 
-### <code>01 // CAREER_PATH</code>
+### <code>01 CAREER_PATH</code>
 
 <code>SWE Masters student from Tunisia w/ 3+ years building full-stack apps.
-I like architechting & design systems.
+I architect first & code later, my sanity lowk depends on it.
 ?x Hackathon winner.</code> 
 
 <code>Currently interning @**hi-interns**</code>
 
 ---
 
-### <code>02 // TECH_STACK</code>
+### <code>02 TECH_STACK</code>
 
 <div align="center">
 
@@ -46,16 +45,16 @@ I like architechting & design systems.
 
 ---
 
-### <code>03 // MY_STATS</code>
+### <code>03 STATS</code>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zonivisuals&show_icons=true&theme=radical&bg_color=1a1a1a&title_color=9d50bb&icon_color=6a0dad&text_color=ffffff&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonivisuals&layout=compact&theme=radical&bg_color=1a1a1a&title_color=9d50bb&text_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zonivisuals&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zonivisuals&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### <code>04 // LET'S_CONNECT</code>
+### <code>04 LET'S_CONNECT</code>
 
 <p align="center">
   <a href="https://linkedin.com/in/thehajji" target="_blank">
