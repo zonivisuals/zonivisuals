@@ -1,52 +1,66 @@
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="40%" align="center" valign="top">
-      <img src="push.gif" width="100%" alt="Katana Animation" />
-      <h2><code>MOHAMED</code></h2>
-      <p>
-        <img src="https://img.shields.io/badge/LOCATION-TUNISIA-6a0dad?style=for-the-badge" /><br/>
-        <img src="https://img.shields.io/badge/ROLE-SWE-4a0dad?style=for-the-badge" />
-      </p>
-      <p><b>I BUILD SCALABLE SYSTEMS</b></p>
-    </td>
 
-    <td width="60%" valign="top">
-      <blockquote>
-        <code>"The code you write today is the technical debt you pay tomorrow. Sharpen your blade."</code>
-      </blockquote>
+<img src="push.gif" width="64%" alt="Katana Animation" />
 
-      <h3><code>01 CAREER_PATH</code></h3>
-      <p>SWE Masters student from Tunisia w/ 3+ years building full-stack apps. I architect first & code later. 2x Hackathon winner.</p>
-      <p>Currently interning @<b>hi-interns</b></p>
+<br/>
 
-      <h3><code>02 TECH_STACK</code></h3>
-      <p>
-        ![TypeScript](https://img.shields.io/badge/-TS-007ACC?style=flat-square&logo=typescript&logoColor=white) 
-        ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-        ![Next.js](https://img.shields.io/badge/-Next-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-        ![Node.js](https://img.shields.io/badge/-Node-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-        ![Elysia](https://img.shields.io/badge/-Elysia-000000?style=flat-square&logo=bun&logoColor=white)
-        ![PostgreSQL](https://img.shields.io/badge/-PGSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-        ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-      </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LOCATION-TUNISIA-6a0dad?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-SWE-4a0dad?style=for-the-badge" />
+</p>
 
-      <h3><code>03 CONNECT</code></h3>
-      <p>
-        <a href="https://linkedin.com/in/thehajji">
-          <img src="https://img.shields.io/badge/-LinkedIn-6a0dad?style=flat-square&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="https://mohamedhajji.tech">
-          <img src="https://img.shields.io/badge/-Portfolio-4a0dad?style=flat-square&logo=google-chrome&logoColor=white" />
-        </a>
-        <a href="https://x.com/zonivisuals">
-          <img src="https://img.shields.io/badge/-X-6a0dad?style=flat-square&logo=x&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<code><b>I BUILD SCALABLE SYSTEMS</b></code>
+<br/>
+<code>"The code you write today is the technical debt you pay tomorrow. Sharpen your blade."</code>
+
+---
+
+### <code>01 WHO_AM_I</code>
+
+<code>SWE Masters student from Tunisia w/ 3+ years building full-stack apps.
+I architect first & code later, my sanity lowk depends on it.
+</code> 
+
+<code>Currently interning @**hi-interns**</code>
+
+---
+
+### <code>02 TECH_STACK</code>
+
+<div align="center">
+
+<br/>
+
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<br/>
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Elysia](https://img.shields.io/badge/Elysia-000000?style=for-the-badge&logo=bun&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+</div>
+
+---
+
+### <code>03 LET'S_CONNECT</code>
+
+<p align="center">
+  <a href="https://linkedin.com/in/thehajji" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6a0dad" alt="LinkedIn" />
+  </a>
+  <a href="https://mohamedhajji.tech" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=6a0dad" alt="Portfolio" />
+  </a>
+  <a href="https://x.com/zonivisuals" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=6a0dad" alt="X" />
+  </a>
+</p>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4a0dad&height=60&section=footer" width="100%"/>
 
